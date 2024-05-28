@@ -1,7 +1,7 @@
 ### About Me
 
 - 👩‍💻 3rd year Computer Science and Engineering student.
-- 🔭 I’m currently working on the project Fake Face Detetcion.
+- 🔭 I’m currently working on the project Fake Face Detetcion and Power Management Telemetry.
 - 🌱 I’m currently learning Web Development amd Machne learning in Python.
 - ✨ Interested in:
     - Web Development
