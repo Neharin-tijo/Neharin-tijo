@@ -1,12 +1,19 @@
 ### About Me
 
-- 👩‍💻 3rd year Computer Science and Engineering student.
-- 🔭 I’m currently working on the projects Fake Face Detetcion and Power Management Telemetry.
-- 🌱 I’m currently learning Web Development amd Machne learning in Python.
+- 👩‍💻 Currently pursuing B.Tech in Computer Science and Engineering.
+- - 🌱 I’m currently learning Web Development amd Machne learning in Python.
 - ✨ Interested in:
     - Web Development
-    - Cybersecurity 
-- 📫 How to reach me:
+    - Mechine Learning 
+    - Cybersecurity
+      
+### Projects
+- 🔭 I’m currently working on the project Power Management Telemetry as a part of Intel-Unnati Industrial Training 2024.
+- ✨ Winner at Intel-Unnati Industrial Training 2023 for Fake Face Detection Using Python and Machine Learning.
+- Worked on the project Style Buddy as a part of Beyond the Loop Hackathon.
+- Worked on the project Deciphering the Digital Mask: Fake Face Detection as part of the Mini-project.
+
+### 📫 How to reach me:
     - on linkedin - https://www.linkedin.com/in/neharintijo
     - on email - neharintijo@gmail.com
 <!--
