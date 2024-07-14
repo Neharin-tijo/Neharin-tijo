@@ -1,4 +1,5 @@
 ### Hi there 👋
+               ** I'm Neharin **
 ### About Me
 
 - 👩‍💻 Currently pursuing B.Tech in Computer Science and Engineering.
@@ -11,8 +12,8 @@
 ### Projects
 - 💻 I’m currently working on the project **Power Management Telemetry** as a part of Intel-Unnati Industrial Training 2024.
 - 🏆 Winner at Intel-Unnati Industrial Training 2023 for **Fake Face Detection Using Python and Machine Learning**.
-- ✔ Worked on the project **Deciphering the Digital Mask: Fake Face Detection** as part of the Mini-project.
-- ✔ Worked on the project **Style Buddy** as a part of Beyond the Loop Hackathon.
+- ✔ Worked on the project **Deciphering the Digital Mask: Fake Face Detection** is a face detection website where the user can upload an image and it detect the face as fake or real. This project was developed as the part of the Mini-project in the 3rd academic year.
+- ✔ Worked on the project **StyleBuddy** a fashion styling website developed as a part of Beyond the Loop Hackathon presented by IEEE ICET in collaboration with NocoDB at Ilahia College of Engineering and Technology, Kerala.
 
 ### 📫 How to reach me:
     - on Linkedin:  https://www.linkedin.com/in/neharintijo
