@@ -1,5 +1,5 @@
-### Hi there 👋
-               ** I'm Neharin **
+### Hi there 👋 I'm Neharin Tijo
+               
 ### About Me
 
 - 👩‍💻 Currently pursuing B.Tech in Computer Science and Engineering.
