@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Neharin-tijo](https://github.com/Neharin-tijo)
 
-- 📫 How to reach me **neharintijo@gmail.com, https://www.linkedin.com/in/neharintijo/, https://github.com/Neharin-tijo, https://x.com/Neharin_Tijo**
+- 📫 How to reach me **neharintijo@gmail.com, https://www.linkedin.com/in/neharintijo/, https://x.com/Neharin_Tijo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
