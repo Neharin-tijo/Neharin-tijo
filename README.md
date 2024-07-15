@@ -7,9 +7,20 @@
 
 <p align="left"> <a href="https://twitter.com/neharin_tijo" target="blank"><img src="https://img.shields.io/twitter/follow/neharin_tijo?logo=twitter&style=for-the-badge" alt="neharin_tijo" /></a> </p>
 
-- 🔭 I’m currently working on **Power Manager Telemetry**
+- 🔭 I’m currently working on the project **Power Manager Telemetry** as a part of **Intel-Unnati** Industrial Training 2024.
 
-- 🌱 I’m currently learning **Web Development, Machine Learning and Python**
+- 🌱 I’m currently learning **Web Development and Machine Learning in Python**
+ 
+- 🏆 Winner at **Intel-Unnati Industrial Training 2023** for **Fake Face Detection Using Python and Machine Learning**.
+ 
+- ✔ Worked on the project **Deciphering the Digital Mask: Fake Face Detection** is a face detection website where the user can upload an image and it detect the face as fake or real. This project was developed as the part of the **Mini-project** in the 3rd academic year.
+  
+- ✔ Worked on the project **StyleBuddy** a fashion styling website developed as a part of **Beyond the Loop Hackathon** presented by IEEE ICET in collaboration with NocoDB at Ilahia College of Engineering and Technology, Kerala.
+
+- ✨ Interested in:
+    - Web Development
+    - Mechine Learning 
+    - Cybersecurity
 
 - 👨‍💻 All of my projects are available at [https://github.com/Neharin-tijo](https://github.com/Neharin-tijo)
 
