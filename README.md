@@ -17,7 +17,7 @@
 
 ### Tools Used
 - HTML
-- css
+- CSS
 - JAVASCRIPT
 - PYTHON 
 
