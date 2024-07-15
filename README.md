@@ -15,6 +15,12 @@
 - ✔ Worked on the project **Deciphering the Digital Mask: Fake Face Detection** is a face detection website where the user can upload an image and it detect the face as fake or real. This project was developed as the part of the **Mini-project** in the 3rd academic year.
 - ✔ Worked on the project **StyleBuddy** a fashion styling website developed as a part of **Beyond the Loop Hackathon** presented by IEEE ICET in collaboration with NocoDB at Ilahia College of Engineering and Technology, Kerala.
 
+### Tools Used
+- HTML
+- css
+- JAVASCRIPT
+- PYTHON 
+
 ### 📫 How to reach me:
   - on Linkedin:  https://www.linkedin.com/in/neharintijo
   - on Email: neharintijo@gmail.com 📧
