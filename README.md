@@ -17,7 +17,7 @@
   
 - ✔ Worked on the project **StyleBuddy** a fashion styling website developed as a part of **Beyond the Loop Hackathon** presented by IEEE ICET in collaboration with NocoDB at Ilahia College of Engineering and Technology, Kerala.
 
-- ✨ Interested in:
+- ✨ **Interested in:**
     - Web Development
     - Mechine Learning 
     - Cybersecurity
