@@ -1,4 +1,4 @@
-          ## Hi there 👋 I'm Neharin Tijo
+# Hi there 👋 I'm Neharin Tijo
                
 ### About Me
 
