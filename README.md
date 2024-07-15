@@ -16,8 +16,8 @@
 - ✔ Worked on the project **StyleBuddy** a fashion styling website developed as a part of **Beyond the Loop Hackathon** presented by IEEE ICET in collaboration with NocoDB at Ilahia College of Engineering and Technology, Kerala.
 
 ### 📫 How to reach me:
-    - on Linkedin:  https://www.linkedin.com/in/neharintijo
-    - on Email: neharintijo@gmail.com 📧
+  - on Linkedin:  https://www.linkedin.com/in/neharintijo
+  - on Email: neharintijo@gmail.com 📧
 <!--
 **Neharin-tijo/Neharin-tijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
