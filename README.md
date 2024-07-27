@@ -13,6 +13,19 @@
  
 - 🏆 Winner at **Intel-Unnati Industrial Training 2023** for **Fake Face Detection Using Python and Machine Learning**.
 
+- Jumana Jouhar, Anju Pratap, Neharin Tijo, Meenakshi Mony,
+Fake News Detection using Python and Machine Learning,
+Procedia Computer Science,
+Volume 233,
+2024,
+Pages 763-771,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2024.03.265.
+(https://www.sciencedirect.com/science/article/pii/S1877050924006252)
+Abstract: In an era dominated by digital information, the unchecked proliferation of false information poses a critical threat. This has motivated to study for techniques which can tackle issues related to it, and hence the study uses machine learning algorithms to detect fake news. By systematically exploring and evaluating various machine learning models, the research enhances decision-making, fortifies information integrity and addresses the adverse impacts of misinformation on a broader scale. Going beyond mere algorithmic efficacy, the study introduces a multifaceted approach by using evaluation metrics like precision and accuracy. This strategic analysis identifies the optimal machine learning algorithm for classifying articles as real or fake news. The contents covered by the study include literature review, dataset selection, data preprocessing and cleaning, vectorization, model and metric selection, model training, optimization and evaluation. The study extends its impact beyond technical proficiency, actively contributing to bolstering trust across media, democratic processes, and ensuring content authenticity. This inclusive approach benefits a wide array of stakeholders including news organizations, social media platforms and government entities. Through rigorous evaluation, the study significantly enhances information credibility, providing a countermeasure against the growing threat of misinformation.
+Keywords: Applied machine learning; Detection of Fake News
+
+
 - @article{JOUHAR2024763,
 title = {Fake News Detection using Python and Machine Learning},
 journal = {Procedia Computer Science},
