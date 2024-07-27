@@ -13,7 +13,7 @@
  
 - 🏆 Winner at **Intel-Unnati Industrial Training 2023** for **Fake Face Detection Using Python and Machine Learning**.
 
-- Jumana Jouhar, Anju Pratap, Neharin Tijo, Meenakshi Mony,
+- 📄 Jumana Jouhar, Anju Pratap, Neharin Tijo, Meenakshi Mony,
 Fake News Detection using Python and Machine Learning,
 Procedia Computer Science,
 Volume 233,
