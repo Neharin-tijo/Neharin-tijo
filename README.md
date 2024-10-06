@@ -24,6 +24,8 @@ https://doi.org/10.1016/j.procs.2024.03.265.
 (https://www.sciencedirect.com/science/article/pii/S1877050924006252)
  
 - ✔ Worked on the project **Deciphering the Digital Mask: Fake Face Detection** is a face detection website where the user can upload an image and it detect the face as fake or real. This project was developed as the part of the **Mini-project** in the 3rd academic year.
+
+- ✔ Worked on the project **Fake News detetcion using Python and Machine Learning** as a part of **Intel Unnati Industrial Training - Summer 2023.**
   
 - ✔ Worked on the project **StyleBuddy** a fashion styling website developed as a part of **Beyond the Loop Hackathon** presented by IEEE ICET in collaboration with NocoDB at Ilahia College of Engineering and Technology, Kerala.
 
