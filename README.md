@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/neharin_tijo" target="blank"><img src="https://img.shields.io/twitter/follow/neharin_tijo?logo=twitter&style=for-the-badge" alt="neharin_tijo" /></a> </p>
 
-- 🔭 I’m currently working on the project **Power Manager Telemetry** as a part of **Intel-Unnati** Industrial Training 2024.
+- 🔭 I’m currently working on the project **CyberGuard: Cyberbullying Detection system**.
 
 - 🌱 I’m currently learning **Web Development and Machine Learning in Python**
  
