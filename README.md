@@ -23,13 +23,7 @@ ISSN 1877-0509,
 https://doi.org/10.1016/j.procs.2024.03.265.
 (https://www.sciencedirect.com/science/article/pii/S1877050924006252)
 
-- **CyberGuard: Cyberbullying Detection System (In Progress)**
- ◦ Developing a system to detect cyberbullying that includes features for severity determination, legal advice,
- blockchain for evidence storage, user interaction (reporting/notifications), and an admin dashboard for
- viewing reports and analytics
-
 - ✔ Worked on the project **Power Manager Telemetery** as a part of **Intel Unnati Industrial Training - 2024.**
-   -  Developed a power management telemetry solution using Python to monitor and analyze power consumption in key system components (CPU, memory, NIC, battery), aimed at optimizing energy efficiency andsustainability in computing environments.
  
 - ✔ Worked on the project **Deciphering the Digital Mask: Fake Face Detection** is a face detection website where the user can upload an image and it detect the face as fake or real. This project was developed as the part of the **Mini-project** in the 3rd academic year.
 
