@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/neharin_tijo" target="blank"><img src="https://img.shields.io/twitter/follow/neharin_tijo?logo=twitter&style=for-the-badge" alt="neharin_tijo" /></a> </p>
 
-- 🔭 I’m currently working on the project **CyberGuard: Cyberbullying Detection system**.
 
 - 🌱 I’m currently learning **Web Development and Machine Learning in Python**
  
@@ -22,6 +21,8 @@ Pages 763-771,
 ISSN 1877-0509,
 https://doi.org/10.1016/j.procs.2024.03.265.
 (https://www.sciencedirect.com/science/article/pii/S1877050924006252)
+
+- ✔ Worked on the project **CyberGuard: Cyberbullying Detection system**.
 
 - ✔ Worked on the project **Power Manager Telemetery** as a part of **Intel Unnati Industrial Training - 2024.**
  
