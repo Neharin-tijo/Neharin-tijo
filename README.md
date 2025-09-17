@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neharin Tijo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">**A passionate frontend developer from India**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neharin-tijo&label=Profile%20views&color=0e75b6&style=flat" alt="neharin-tijo" /> </p>
 
@@ -12,9 +12,9 @@
  
 - 🏆 Winner at **Intel-Unnati Industrial Training 2023** for **Fake Face Detection Using Python and Machine Learning**.
 
-- 📄 **PUBLICATION:**
-    - 1. Jumana Jouhar, Anju Pratap, Neharin Tijo, Meenakshi Mony, Fake News Detection using Python and Machine Learning, Procedia Computer Science, Volume 233, 2024, Pages 763-771, ISSN 1877-0509, https://doi.org/10.1016/j.procs.2024.03.265. (https://www.sciencedirect.com/science/article/pii/S1877050924006252) ✔
-    - 2. N. Benny, N. Tijo, S. A. Varghese, V. Manoj and J. Thomas, "CyberGuard: Cyberbullying Detection System using BiLSTM for Enhancing Digital Safety and Justice in Online Communities," 2025 4th International Conference on Advances in Computing, Communication, Embedded and Secure Systems (ACCESS), Ernakulam, India, 2025, pp. 822-829, doi: 10.1109/ACCESS65134.2025.11135899. https://ieeexplore.ieee.org/document/11135899 ✔
+- 📄 **PUBLICATIONS:**
+    - Jumana Jouhar, Anju Pratap, Neharin Tijo, Meenakshi Mony, Fake News Detection using Python and Machine Learning, Procedia Computer Science, Volume 233, 2024, Pages 763-771, ISSN 1877-0509, https://doi.org/10.1016/j.procs.2024.03.265. (https://www.sciencedirect.com/science/article/pii/S1877050924006252) ✔
+    - N. Benny, N. Tijo, S. A. Varghese, V. Manoj and J. Thomas, "CyberGuard: Cyberbullying Detection System using BiLSTM for Enhancing Digital Safety and Justice in Online Communities," 2025 4th International Conference on Advances in Computing, Communication, Embedded and Secure Systems (ACCESS), Ernakulam, India, 2025, pp. 822-829, doi: 10.1109/ACCESS65134.2025.11135899. https://ieeexplore.ieee.org/document/11135899 ✔
 
 - ✔ Worked on the project **CyberGuard: Cyberbullying Detection system**.
 
